@@ -28,11 +28,11 @@ def deauth(gateway):
 
 #Creates a fake beacon frame with the same SSID
 def create_beacon():
-    pass
+    pass #Still working on this function
 
 #When someone accidentally types password into my spoofed AP I will recieve the password
 def recieve_password():
-    pass
+    pass #Still working on this function
 
 def main():
     gateway = input('What SSID of the device you are attacking?: ')
